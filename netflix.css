@@ -1,0 +1,244 @@
+ 
+
+.bc{ 
+    background-image: url(img/net\ backgrounf.jpg);
+    height: 800px;
+    background-color: black;
+    filter: brightness(50%);
+}
+
+.Hero{
+    color: white;
+    margin-left: 250px;
+    margin-top: 190px;
+    
+      
+}
+.Hero p{
+    margin-left: 360px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.Hero h4{
+    margin-left: 200px;
+    font-weight: 500;
+
+}
+input{
+    width: 68%;
+    height: 70px;
+    background-color: rgb(27,25,23);
+    opacity: 0.7;
+    margin-left: 480px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid whitesmoke;
+    
+}
+::placeholder{
+    color: white;
+    font-weight: 500;
+    font-size: large;
+    padding-left: 20px;
+}
+.btn button{
+    width: 60%;
+    height: 70px;
+    border-radius: 5px;
+    margin-left: 265px;
+    margin-top: 13px;
+    background-color: rgb(229,9,20);
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    border: 0;
+    
+}
+.whole{
+    display: flex;
+}
+.second{
+    display: flex;
+    background-color: black;
+    height: 600px;
+
+}
+
+.second h1{
+    color: white;
+    margin-left: 150px;
+    font-size: 70px;
+    font-weight:bold ;
+    padding-top: 250px;
+}
+.second h3{
+    color: white;
+    margin-left: 150px;
+    font-weight: 400;
+}
+.second img{
+    width: 40%;
+    margin-left: 200px;
+    
+    
+} 
+.second video{
+    position: absolute;
+    display: inline-block;
+    vertical-align: baseline;
+    width: 29%;
+    margin-left: 1005px;
+    margin-top: 145px;
+    
+
+}
+.second1{
+    /* display: flex; */
+    background-color: black;
+    height: 650px;
+    padding-top: 70px;
+
+}
+
+.second1 img{
+    position: absolute;
+    margin-left: 150px;
+    padding-top: 60px;
+    
+}
+.second1 .lol{
+    position: absolute;
+    height: 130px;
+    width: 20%;
+    background-color: black;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 290px;
+    margin-top: 380px;
+    
+    
+}
+ .lol img{
+    position: absolute;
+    width: 20%;
+    margin-left: 30px;
+    padding: 0;
+    margin-top: 10px;
+    
+    
+    
+    
+}
+.lol h3{
+    margin-left: 120px;
+    margin-top: 40px;
+    color: white;
+    font-size:20px;
+    font-weight: 500;
+}
+.lol p{
+    margin-left: 120px;
+    margin-bottom: 10px;
+    font-size:20px;
+    font-weight: 400;
+    color: rgb(0,95,235);
+}
+
+.loly h1{
+    margin-left: 1000px;
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 120px;
+}
+.loly p{
+    margin-left: 1000px;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+.second2{
+    /* display: flex; */
+    background-color: black;
+    height: 650px;
+    padding-top: 70px;
+
+}
+.second2 h1{
+    margin-left: 300px;
+    color: white;
+    font-size: 75px;
+    font-weight: bolder;
+    margin-top: 120px;
+}
+.second2 p{
+    margin-left: 300px;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+.second3{
+    /* display: flex; */
+    background-color: black;
+    height: 650px;
+    padding-top: 70px;
+
+}
+
+.second3 img{
+    position: absolute;
+    margin-left: 150px;
+    padding-top: 60px;
+    
+}
+.second3 .lol{
+    position: absolute;
+    height: 130px;
+    width: 20%;
+    background-color: black;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 290px;
+    margin-top: 380px;
+    
+    
+}
+.lolh h1{
+    margin-left: 1000px;
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 120px;
+}
+.lolh p{
+    margin-left: 1000px;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+.second4{
+    /* display: flex; */
+    background-color: black;
+    height: 1200px;
+    padding-top: 70px;
+
+}
+.lolp h1{
+    margin-left: 450px;
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 70px;
+}
+.lolv h3{
+    margin-left: 400px;
+    margin-top: 40px;
+    color: white;
+    font-size:30px;
+    font-weight: 400;
+}
